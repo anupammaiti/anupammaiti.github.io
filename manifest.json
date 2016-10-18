@@ -1,0 +1,7 @@
+{
+  "name": "Anupam Maiti Portfolio",
+  "short_name": "AnupamMaitiPortfolio",
+  "start_url": "/",
+  "display": "standalone",
+  "gcm_sender_id": "482941778795"
+}
